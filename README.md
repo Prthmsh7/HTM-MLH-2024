@@ -1,4 +1,4 @@
-# Team-Prometheus
+# Prometheus
 
 Welcome to the repository for Team Prometheus. This repository contains our project files, documentation, and resources.
 
