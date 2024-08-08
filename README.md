@@ -11,7 +11,7 @@ Welcome to the repository for Team Prometheus. This repository contains our proj
 
 ## Project Overview
 
-[a Web3-based platform designed for technical professionals and developers to build verified resumes, showcase their skills, and gain recognition through a leaderboard system. By leveraging blockchain technology, SkillChain ensures the authenticity of users' skills and project work, providing a transparent and secure environment for freelancers and employers.]
+a Web3-based platform designed for technical professionals and developers to build verified resumes, showcase their skills, and gain recognition through a leaderboard system. By leveraging blockchain technology, SkillChain ensures the authenticity of users' skills and project work, providing a transparent and secure environment for freelancers and employers.
 
 ## Table of Contents
 
