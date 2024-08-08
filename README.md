@@ -11,7 +11,7 @@ Welcome to the repository for Team Prometheus. This repository contains our proj
 
 ## Project Overview
 
-[Provide a brief overview of your project. Explain what the project is about, its objectives, and the problems it aims to solve.]
+[a Web3-based platform designed for technical professionals and developers to build verified resumes, showcase their skills, and gain recognition through a leaderboard system. By leveraging blockchain technology, SkillChain ensures the authenticity of users' skills and project work, providing a transparent and secure environment for freelancers and employers.]
 
 ## Table of Contents
 
