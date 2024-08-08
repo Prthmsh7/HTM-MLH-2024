@@ -9,9 +9,9 @@ Welcome to the repository for Team Prometheus. This repository contains our proj
 3. Ayush Mati
 4. Manas Singh
 
-## Project Overview
+## Dexter
 
-a Web3-based platform designed for technical professionals and developers to build verified resumes, showcase their skills, and gain recognition through a leaderboard system. By leveraging blockchain technology, SkillChain ensures the authenticity of users' skills and project work, providing a transparent and secure environment for freelancers and employers.
+Dexter is a Web3-based platform designed for technical professionals and developers to build verified resumes, showcase their skills, and gain recognition through a leaderboard system. By leveraging blockchain technology, Dexter ensures the authenticity of users' skills and project work, providing a transparent and secure environment for freelancers and employers.
 
 ## Table of Contents
 
