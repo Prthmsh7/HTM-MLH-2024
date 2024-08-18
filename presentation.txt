@@ -1,6 +1,3 @@
-
-*Pitch Title: Revolutionizing Skill Verification with Web3: The Future of Professional Credibility*
-
 ### *Introduction*
 
 In the digital age, the gap between claimed skills and actual expertise is widening, making it challenging for recruiters to trust traditional resumes. Our platform offers a Web3-based solution that seamlessly verifies skills and ranks top talent, transforming how professionals showcase their capabilities and how recruiters find the best candidates.
@@ -28,7 +25,3 @@ Our platform integrates LinkedIn and GitHub, using blockchain to verify and toke
 ### *Impact*
 
 For recruiters, our platform offers a fast, reliable way to verify and hire top talent. For job seekers, it provides a way to prove their skills and stand out through a transparent ranking system. We're setting a new standard for skill verification and talent discovery in the job market.
-
----
-
-This concise pitch highlights the core aspects of your platform, emphasizing its innovation, benefits, and impact.
