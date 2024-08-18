@@ -1,6 +1,3 @@
-Here's a concise 2-3 minute version of the pitch:
-
----
 
 *Pitch Title: Revolutionizing Skill Verification with Web3: The Future of Professional Credibility*
 
@@ -9,10 +6,13 @@ Here's a concise 2-3 minute version of the pitch:
 In the digital age, the gap between claimed skills and actual expertise is widening, making it challenging for recruiters to trust traditional resumes. Our platform offers a Web3-based solution that seamlessly verifies skills and ranks top talent, transforming how professionals showcase their capabilities and how recruiters find the best candidates.
 
 ### *Problem*
+The tech industry faces a critical challenge of skill misalignment due to rampant skill falsification. A robust platform is needed to authenticate skills based on practical project experience and align talent with suitable roles.
 
-Traditional skill verification is unreliable, slow, and centralized. Recruiters face challenges in verifying candidate skills, leading to poor hires, and candidates struggle to prove their abilities effectively.
+A decentralized, Web3-based platform that leverages blockchain technology to create a transparent, efficient, and meritocratic hiring ecosystem, enabling accurate skill verification, robust portfolio building, performance benchmarking through leaderboards, and optimized talent matching.
 
 ### *Solution*
+
+A decentralized, Web3-based platform that leverages blockchain technology to create a transparent, efficient, and meritocratic hiring ecosystem, enabling accurate skill verification, robust portfolio building, performance benchmarking through leaderboards, and optimized talent matching.
 
 Our platform integrates LinkedIn and GitHub, using blockchain to verify and tokenize skills. Here's how it works:
 - *Skill Verification:* We parse LinkedIn profiles and cross-reference them with GitHub contributions to validate skills.
